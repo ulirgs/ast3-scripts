@@ -16,7 +16,9 @@
 #
 # OUTPUTS:
 #   YEAR_altsun365.dat: it has these columns：
-#   #MJD, sunAz, sunAlt ,moonAz ,moonAlt, moon Phase
+#   #DJD, sunAz, sunAlt ,moonAz ,moonAlt, moon Phase
+#   (units: day, degree, degree , degree , degree, percent)
+#   DJD is the Dublin Julian Day, which is the JD − 2415020. 
 #
 # OPTIONAL INPUTS:
 #
